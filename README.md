@@ -27,3 +27,6 @@ I am a passionate developer currently honing my skills through the **Codust-SIR*
                   -Bachelor in Science of Computer Science
 * **Learning:** Exploring backend integration and API development.
 * **Fun Fact:** I love taking complex UI designs and breaking them down into reusable components.
+
+### 🤝 Connect with me:
+  <a href="https://linkedin.com/in/alfred-balazire-103314346" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://nguvu-teach.org/" target="_blank"><img src="https://img.shields.io/badge/Website-32CD32?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a> <a href="mailto:alfredbalazirelurhakongola@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>

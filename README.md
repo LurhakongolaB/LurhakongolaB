@@ -8,7 +8,9 @@ I am a passionate developer currently honing my skills through the **Codust-SIR*
 
 ### Tech Stack & Tools:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black) ![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white) ![VISUAL STUDIO CODE](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### Tech Stack & Tools:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black) ![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white) ![NODE.JS](https://img.shields.io/badge/NODE.JS-339933?style=flat&logo=nodedotjs&logoColor=white) ![MONGODB](https://img.shields.io/badge/MONGODB-47A248?style=flat&logo=mongodb&logoColor=white) ![AI OICI](https://img.shields.io/badge/AI_CERTIFIED-OICI-8A2BE2?style=flat&logo=openai&logoColor=white) ![MARKDOWN](https://img.shields.io/badge/MARKDOWN-000000?style=flat&logo=markdown&logoColor=white) ![GRAPHIC DESIGN](https://img.shields.io/badge/GRAPHIC%20DESIGN-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white) ![VIDEO EDITING](https://img.shields.io/badge/VIDEO%20EDITING-PR-00005B?style=flat&logo=adobepremierepro&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white) ![VISUAL STUDIO CODE](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ***
 

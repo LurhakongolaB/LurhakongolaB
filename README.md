@@ -22,7 +22,7 @@ I am a passionate developer currently honing my skills through the **Codust-SIR*
 
 ### What I’m Working On:
 
-* **Current Focus:** Mastering React.js and advanced CSS architectures.
+* **Current Focus:** Mastering React.js, Node.js, MongoDB and advanced CSS architectures.
 * **Education:** - Deep-diving into the Codust-SIR web development track. </br>
                   -Bachelor in Science of Computer Science
 * **Learning:** Exploring backend integration and API development.

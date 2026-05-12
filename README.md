@@ -6,7 +6,15 @@ I am a passionate developer currently honing my skills through the **Codust-SIR*
 
 ***
 
-### Tech Stack & Tools:
+## 🛠️ IT Technician & Computer Science Student
+I bridge the gap between hardware reliability and software innovation. 
+Whether it's reviving a dead laptop or building a full-stack application, 
+I focus on high-performance solutions for the East African context.
+
+### IT Technical Expertise:
+- **Repair:** Hardware Diagnostics | Component Replacement | Preventative Maintenance
+- **Networking:** LAN/WLAN Setup | Routing | Network Security
+- **Dev:** Node.js | MongoDB | React | SASS
 
 ### Tech Stack & Tools:
 

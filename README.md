@@ -6,6 +6,29 @@ I am a passionate developer currently honing my skills through the **Codust-SIR*
 
 ***
 
+## 👨‍💻 About Me
+I am a **Computer Science student** and the founder of **Nguvu-TEACH Computer Center**. 
+I bridge the gap between robust hardware maintenance and modern digital solutions. 
+
+- 🎓 **Education:** Pursuing a **BSc in Computer Science** at Victoria University.
+- 🛤️ **Deep Dive:** Currently mastering the **Codust-SIR** web development track.
+- ⚡ **Current Focus:** Building scalable apps with **React.js, Node.js, and MongoDB**.
+- 🤖 **AI Specialty:** **OICI Certified**, exploring AI integration in modern workflows.
+- 🎨 **UI Enthusiast:** I love breaking down complex designs into clean, reusable CSS architectures.
+
+### 🛠️ Tech Stack & Skills
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Advanced CSS (SASS/BEM), JavaScript (ES6+) |
+| **Backend** | Node.js, Express, API Development & Integration |
+| **Database** | MongoDB (NoSQL), Data Architecture |
+| **AI & Data** | AI (OICI Certified)[cite: 1], Data Decision Making[cite: 1] |
+| **Infrastructure** | Computer Repair[cite: 1], Network Setup (LAN)[cite: 1], IT Troubleshooting[cite: 1] |
+
+> **Fun Fact:** I treat complex UI designs like hardware—breaking them down into modular, reusable components for maximum efficiency.
+
+
+
 ## 🛠️ IT Technician & Computer Science Student
 I bridge the gap between hardware reliability and software innovation. 
 Whether it's reviving a dead laptop or building a full-stack application, 

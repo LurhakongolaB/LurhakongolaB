@@ -6,6 +6,14 @@
 I am a **Computer Science student** and the founder of **Nguvu-TEACH Computer Center**. 
 I bridge the gap between robust hardware maintenance and modern digital solutions. 
 
+# Alfred Balazire Lurhakongola
+
+### 🚀 Featured Projects
+
+- **[SUHACO](link)** - CMS sécurisé pour organisation communautaire
+- **[FikaFlow](link)** - Système de gestion avec RBAC
+- **[SalamaInfo](link)** - Chiffrement AES pour données sensibles
+
 ## 🎓 Education & Certifications
 - **BSc. Computer Science** | Victoria University Kampala (Current)
 - **Full Stack Open** | *University of Helsinki*
@@ -18,7 +26,9 @@ I bridge the gap between robust hardware maintenance and modern digital solution
 | **Frontend** | React.js, Advanced CSS (SASS/BEM), JavaScript (ES6+) |
 | **Backend** | Node.js, Express, API Development & Integration |
 | **Database** | MongoDB (NoSQL), Data Architecture |
-| **AI & Data** | AI (OICI Certified)[cite: 1], Data Decision Making[cite: 1] |
+ **Security:** JWT, AES, PyCryptodome  
+ **Tools:** Git, Docker, VirtualBox
+|**AI & Data** | AI (OICI Certified)[cite: 1], Data Decision Making[cite: 1] |
 | **Infrastructure** | Computer Repair[cite: 1], Network Setup (LAN)[cite: 1], IT Troubleshooting[cite: 1] |
 > **Fun Fact:** I treat complex UI designs like hardware—breaking them down into modular, reusable components for maximum efficiency.
 
